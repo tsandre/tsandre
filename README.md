@@ -1,4 +1,4 @@
-# I'm Tiago André @tsandre
+## I'm Tiago André
 ### Hi there 👋
 
 <!--
