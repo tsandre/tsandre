@@ -1,5 +1,4 @@
-# I'm Tiago André
-## Hi there 👋
+# Hi there 👋, I'm Tiago André
 
 <!--
 **tsandre/tsandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsandre&layout=compact&theme=graywhite) 
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=tsandre&show_icons=true&include_all_commits=true&theme=graywhite) 
