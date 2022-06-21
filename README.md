@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Tiago André
 
+
 - 🔭 I’m currently working as Information Technology Consultant
 
 <!--
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsandre&layout=compact&theme=graywhite) 
 
